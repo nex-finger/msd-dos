@@ -13,6 +13,7 @@
         <itemPath>mcc_generated_files/tmr0.h</itemPath>
         <itemPath>mcc_generated_files/mcc.h</itemPath>
       </logicalFolder>
+      <itemPath>syscall.h</itemPath>
     </logicalFolder>
     <logicalFolder name="ExternalFiles"
                    displayName="Important Files"
@@ -37,6 +38,7 @@
         <itemPath>mcc_generated_files/mcc.c</itemPath>
       </logicalFolder>
       <itemPath>main.c</itemPath>
+      <itemPath>syscall.c</itemPath>
     </logicalFolder>
   </logicalFolder>
   <projectmakefile>Makefile</projectmakefile>
